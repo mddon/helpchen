@@ -1,0 +1,6 @@
+How to Install Git on a Local Machine
+
+Follow the following instructions to install Git on your local machine:
+1. Download the latest version of Git from the official website: Git for Windows.
+2. Run the downloaded installer.
+3. Follow the on-screen instructions, selecting the default options unless you have specific preferences.

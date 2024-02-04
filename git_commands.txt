@@ -1,0 +1,20 @@
+1. git init: Initialize a new Git repository.
+2. git clone <repository_url>: Clones a repository into a new directory.
+3. git add <file>: Add changes in a file to the staging area.
+4. git commit -m "message": Record changes to the repository with a commit message.
+5. git push: Update the remote repository with locally committed changes.
+6. git pull: Fetch changes from a remote repository and integrate them into the current branch.
+7. git status: Show the status of changes as untracked, modified, or staged.
+8. git log: Display the commit history.
+9. git branch: List, create, or delete branches.
+10. git checkout <branch>: Switch to a specific branch.
+11. git merge <branch>: Merge changes from one branch into another.
+12. git revert <commit>: Create a new commit that undoes the changes made by a previous commit.
+13. git fetch: Download objects and refs from another repository.
+14. git branch -d <branch>: Delete a local branch.
+15. git show-branch: Show the branches and their commits.
+16. git branch -m <old_name> <new_name>: Rename the current branch.
+17. git remote set-url origin <repository_url>: Update and existing repository.
+18. git branch -d <branch>: Delete a local branch.
+19. git config --global user.email: Configure the user email.
+20. git config --global credential.helper store: To save username and password (token).
